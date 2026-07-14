@@ -1,7 +1,4 @@
-# Web Server Security Assessment & SOC Analytics Project
-
-## Author
-Kiran Karenavar
+# Network Services Security Testing (SSH, SMTP, FTP, MySQL)
 
 ---
 
@@ -115,24 +112,8 @@ This demonstrates practical understanding of SOC workflows and incident handling
 
 ---
 
-## Target Roles
-This project is relevant for:
-- SOC Analyst (Level 1)
-- Cybersecurity Analyst
-- Blue Team Intern / Fresher
-
----
-
 ## Disclaimer
 ⚠️ **Disclaimer:**  
 All testing activities were conducted in a **controlled lab environment** for educational purposes only.  
 No real-world systems, networks, or organizations were targeted.
 
----
-
-## Contact
-Email: kirankarenavar15@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/kiran-karenavar 
-
-GitHub: https://github.com/KiranKarenavar
